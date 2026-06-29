@@ -51,3 +51,20 @@ The objective of this project is to analyze sales performance, outlet trends, pr
 
 
 ## 📂 Project Structure
+Blinkit-Sales-Analysis-PowerBI
+
+│
+├── Dashboard
+│ └── Blinkit_Dashboard.png
+│
+├── Dataset
+│ └── blinkit_dataset.csv
+│
+├── PowerBI_File
+ └── Blinkit_Analysis.pbix
+
+ 
+
+## 👨‍💻 Author
+
+Vedant Shinde
